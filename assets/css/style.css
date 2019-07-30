@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+
+.jumbotron {
+    color: white;
+    background: silver;
+}
+
+.btn {
+    color: white;
+    background: rgba(71, 69, 69, 0.507);
+    margin-bottom: 50px;
+}
+.gif {
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    background: rgba(71, 69, 69, 0.507);
+
+}
+
+.searchHeader{
+    font-size: 24px;
+}
